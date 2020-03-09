@@ -1,0 +1,16 @@
+d2ad07193a51ef20f3b1f91df6deb58e *DESCRIPTION
+f796ee63460fa0bccd727d7b83cee93b *NAMESPACE
+016258f666f936ea44e03f9de85f2ca2 *R/aof.R
+3adb958f4f555de0766c39057aab5c12 *R/data.R
+4bd6b23f6a16369f6018921f2b1ab0c5 *README.md
+201cbb3a5261fcae6116393ee339df5a *build/vignette.rds
+7b66f811de8baef00479920f59512cf0 *data/dataExample.RData
+1581d86b922b50d01c1b270b8ef7be55 *inst/CITATION
+f208c502fd375c1b986686f630bd958d *inst/doc/main.R
+726f0bc659b4eaaef905ec0af4664333 *inst/doc/main.Rmd
+608e2465422bac523b31d9b44700cf97 *inst/doc/main.html
+41f59f96c9c5df23a520ae2a7b7ef308 *man/aof.Rd
+4617c043f5d59d4b4ecf08969f014490 *man/dataExample.Rd
+daed737cf7029ffb0145b01f123f0d08 *tests/testthat.R
+890c564735cac6518c7698eb9a8178db *tests/testthat/test_aof.R
+726f0bc659b4eaaef905ec0af4664333 *vignettes/main.Rmd
